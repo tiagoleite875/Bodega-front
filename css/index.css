@@ -25,6 +25,9 @@ main{
 .image{
     width: 100.7%;
 }
+.imageReceita{
+    height: 410px;
+}
 .dicas{
     font-size: 50px;
     color: #778899;
