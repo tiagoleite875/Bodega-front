@@ -6,6 +6,7 @@
     font-size: 25px;
     padding-right: 50px;
 }
+
 header{
     position: fixed;
     top:0;
@@ -19,8 +20,11 @@ main{
 .cabecalho{
     background-color: #000080;
 }
-.color{
+.button-header{
     color: #FFFF00;
+}
+.button-header:hover{
+    color: white;
 }
 .image{
     width: 100.7%;
@@ -31,4 +35,12 @@ main{
 .dicas{
     font-size: 50px;
     color: #778899;
+}
+.button{
+    background-color: #000080;
+    color: white;
+}
+.button:hover{
+    background-color: #FFFF00;
+    color: #000080;
 }
