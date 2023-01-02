@@ -1,0 +1,31 @@
+.imagem{
+    width: 50%;
+    padding-left: 50px;
+}
+.menu{
+    font-size: 25px;
+    padding-right: 50px;
+}
+header{
+    position: fixed;
+    top:0;
+    left: 0;
+    z-index: 10;
+}
+main{
+    position: relative;
+    top: 70px;
+}
+.cabecalho{
+    background-color: #000080;
+}
+.color{
+    color: #FFFF00;
+}
+.image{
+    width: 102%;
+}
+.dicas{
+    font-size: 50px;
+    color: #778899;
+}
